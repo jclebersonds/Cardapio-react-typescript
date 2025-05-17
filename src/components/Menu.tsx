@@ -17,7 +17,7 @@ function Menu() {
               <Link className="nav-link" to="gnocchi-title" smooth={true} duration={500}>Gnocchi</Link>
             </li>
             <li className="nav-item">
-              <Link className="nav-link" to="pasta-title" smooth={true} duration={500}>Massas</Link>
+              <Link className="nav-link" to="pasta-title" smooth={true} duration={500}>Pastas</Link>
             </li>
             <li className="nav-item">
               <Link className="nav-link" to="bebidas-title" smooth={true} duration={500}>Bebidas</Link>

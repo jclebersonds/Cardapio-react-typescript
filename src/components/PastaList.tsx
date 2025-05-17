@@ -41,7 +41,7 @@ import PastaCard from "./PastaCard";
 
 const PastaList = () => (
   <div id="pastas-section" className="pasta-container">
-    <h2 className="pasta-title">Nossas Opções de Massas</h2>
+    <h2 className="pasta-title">Nossas Opções de Pastas</h2>
     <div className="pasta-grid">
       {pastaList.map((item) => (
         <PastaCard key={item.nome} {...item} />
